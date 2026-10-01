@@ -1,5 +1,5 @@
 from pathlib import Path
-import fitz
+import pymupdf
 
 
 # Project root
@@ -23,7 +23,7 @@ print(f"PDF: {PDF_PATH}")
 
 
 # Open PDF
-pdf = fitz.open(PDF_PATH)
+pdf = pymupdf.open(PDF_PATH)
 
 print(f"Total pages: {len(pdf)}")
 
