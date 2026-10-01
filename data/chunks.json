@@ -1,0 +1,584 @@
+[
+  {
+    "text": "Artist/Talent Booking Software \n(ABS/TBS) \n(आर्टिस्ट / टैलेंट बुकिंग सॉफ़्टवेयर) \n\nUser Manual \nUser and Artist Login Link: \nhttps://abs.prasarbharati.org/ \n\n1",
+    "page": 1,
+    "chunk_id": "page_1_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Table of Contents \nS.No. \nContents \nPage No. \n1. \nIntroduction and Overview \n\n3 \n2. \nRole Overview \n\n3-84 \n\n1)​ ADMIN ROLE \n\n5-26 \n\n2)​ SECRETARY EXECUTIVE ROLE \n\n29-44 \n\n3)​ PROGRAM EXECUTIVE ROLE \n\n45-63 \n\n4)​ SIGNATURE AUTHORITY ROLE \n\n63-73 \n\n5)​ ACCOUNT OFFICER ROLE \n\n73-81 \n\n6)​ ARTIST ROLE \n\n82-86 \n3. \nArtist Booking Workflow \n\n87 \n4. \nCircular Backdate Booking \n\n88-92 \n5. \nFrequently Asked Questions (FAQs) for Station Admin/ Secretary \nExecutive / Program Executive/ Signing Authority/ Account Officer \n\n93-95 \n6. \nFrequently Asked Questions (FAQs) for Artist:- \n\n95 \n7. \nContact Us \n\n95 \n2",
+    "page": 2,
+    "chunk_id": "page_2_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "1. Introduction and Overview:- \n➔​ Name: Artist/Talent Booking Software (ABS/TBS) \n\n➔​ Website URL: https://abs.prasarbharati.org/ \n\n➔​ ABS Support: For support, kindly email us at the address below with 'ABS' in \nthe subject line: support@prasarbharati.gov.in \n➔​ ABS \nPortal \nOverview: \nArtist/Talent \nBooking \nSoftware \nis \nan \nonline \nbrowser-based application, created for the registration and Booking of \nAssignee/RP/Artist. \n\n3",
+    "page": 3,
+    "chunk_id": "page_3_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2. Role Overview:- \n➔​ Role Overview \nThis Portal has multiple users of different roles for each station. Each role has \nspecific jobs to perform. These roles are: \n1. Station Admin. \n2. Secretary Executive. \n3. Program Executive \n4. Signing Authority/H.O.P. \n5. Account officer. \n6. Artist. \nEach Station must have Station Admin credentials to start Artist/Talent Booking \nSoftware (ABS/TBS). For Station Admin Credentials, the following details are to \nbe sent to the email address “support@prasarbharati.gov.in” with ‘ABS’ in the \nsubject line: \n1. Station Name \n2. Station Address \n3. Head of Program Name \n4. Head of Program Email ID \n5. Head of Program Mobile No. \n\n4",
+    "page": 4,
+    "chunk_id": "page_4_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Once Station receives its Admin credentials. The station can start using the Artist/Talent \nBooking Software Portal. \n1) ADMIN ROLE: Station Admin will have the default as Section/Unit. \nAdmin Dashboard has various functions given below: \n1. Artist at Station \n2. All Channels \n3. All Sections/Units \n4. Manage Secretary/TREX \n5. Manage Executive \n6. Manage Signature Authority \n7. Manage Duty Officer/Extra Staff \n8. Manage Account Officer \n9. Manage H.O.P. \n10. Manage Staff Account \n11. All Artists \n12. All Bookings \n13. Add Artist Expertise \n14. Approve Artists \n15. Artist ledger \n16. Allow Back Date \n17. Change Password \n\n●​ Steps to Login: \n\n5",
+    "page": 5,
+    "chunk_id": "page_5_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6",
+    "page": 6,
+    "chunk_id": "page_6_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7",
+    "page": 7,
+    "chunk_id": "page_7_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Station Admin Dashboard functions: \n1. Artist at Station: All the artists registered in the station are listed. \n\n2. All Channels: All the running channels on their Station need to be created here. \nDetails of registered channels can be Create/Edit/Delete/Activate/Deactivate in this tab. \nTo create a channel, click on ADD Channel. \n\n8",
+    "page": 8,
+    "chunk_id": "page_8_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. All Sections/Units: All the working Sections/Units at their Station need to be created \nhere. Details of registered Sections/Units can be Create/Edit/Delete/Deactivate in this \ntab. \nTo create a Section/Unit click on ADD Section/Unit. While Creating Sections, their \nrespective channels also need to be selected (Press Ctrl for multiple channels, showing \nin the list of Available Channels). In case a new registered Channel is not available in \nthe list, please refresh the Page. \n\n9",
+    "page": 9,
+    "chunk_id": "page_9_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "4. Manage Secretary/TREX: All the Program Executives in their Station need to be \nregistered here. Details of the registered Program Executive can be \nCreate/Edit/Delete/Activate/Deactivate in this tab. A unique Email ID is required to \nregister a new User. \nTo create a Program Executive, click on ADD EXECUTIVE. While creating Program \nExecutive, their respective Section/Unit also needs to be selected (Press Ctrl for \nmultiple Section/Unit, showing in the list of Available Section/Unit). After successful \nsubmission of the registration form, the user's Username and Password will be \nautomatically generated, which can be passed to the user. \n\n10",
+    "page": 10,
+    "chunk_id": "page_10_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "5. Manage Program Executives: All the Program Executives in their Station need to \nregister here. Details of the registered Program Executive can be \nCreate/Edit/Delete/Activate/Deactivate in this tab. A unique email ID is required to \nregister a new User. \nTo create a Program Executive, click on ADD EXECUTIVE. While creating an \nExecutive, their respective Section/Unit also needs to be selected (Press Ctrl for \nmultiple Section/Unit, showing in the list of Available Section/Unit). After successful \nsubmission of the registration form, the user's Username and Password will be \nautomatically generated, which can be passed to the user. \n\n11",
+    "page": 11,
+    "chunk_id": "page_11_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6. Manage Signature Authority: All the Signature Authorities in their Station need to \nbe registered here. Details of the registered Authority can be Create/Edit/Delete \nActivate/Deactivate in this tab. A unique email ID is required to register a new User. \nTo create a Signature Authority, click on ADD SIGNATURE AUTHORITY. While \ncreating Signature Authority, their respective Section/Unit also needs to be selected \n(Press Ctrl for multiple Section/Unit, showing in the list of Available Section/unit). In \ncase a new registered Section/Unit is not available in the list, Please Refresh the Page. \nAfter successful submission of the registration form, the user's Username and Password \nwill be automatically generated, which can be passed to the user. \n\n12",
+    "page": 12,
+    "chunk_id": "page_12_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7. Manage Duty Officer/Extra Staff: All the Duty Officers/Extra Staff in their Station \nneed to be registered here. Details of the registered Officer can be Create/Edit/Delete \nActivate/Deactivate in this tab. A unique email ID is required to register a new User. \n\n13",
+    "page": 13,
+    "chunk_id": "page_13_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "14",
+    "page": 14,
+    "chunk_id": "page_14_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Assign the Voucher generation role to Extra staff/TREX: \n●​ Login with Admin & click on Manage Duty Officer/Extra Staff and add the staff \nname with the mail id. \n\n15",
+    "page": 15,
+    "chunk_id": "page_15_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ We can also assign voucher generation roles to existing staff, like PEX etc. \n\n16",
+    "page": 16,
+    "chunk_id": "page_16_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "8. Manage Account Officer: All the Account Officers in their Station need to be \nregistered here. Details of the registered Officers can be Create/Edit/Delete \nActivate/Deactivate in this tab. A unique email ID is required to register a new User. \n\n17",
+    "page": 17,
+    "chunk_id": "page_17_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "9. Manage H.O.P.: All the Heads of the Program in their stations need to be registered \nhere. Details of the registered Officers can be Create/Edit/Delete Activate/Deactivate in \nthis tab. A unique email ID is required to register a new User. \n\n18",
+    "page": 18,
+    "chunk_id": "page_18_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "19",
+    "page": 19,
+    "chunk_id": "page_19_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "10. Manage Staff Account: Through the Manage Staff Account tab, the station can \nreset the password of its station staff, deactivate the user and also delete their \nregistration. \n\n●​ The forgot password option has been given in the user's login. Kindly ensure that \nthe registered mobile number is correct. The otp is also sent to the registered \nmail id. Kindly check the Inbox/Notification/Spam folders. \n\n20",
+    "page": 20,
+    "chunk_id": "page_20_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ In case of transfer or retirement, the user can be deactivated, and the same \nemail id can be used at new stations. \n\n21",
+    "page": 21,
+    "chunk_id": "page_21_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "11. All Artists: Artist page will show the list of artists registered country-wide. Details of \nthe artist can be seen by clicking on the artist row. \n\n22",
+    "page": 22,
+    "chunk_id": "page_22_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "12. All Bookings: All Booking lists can be seen here, along with their status. After \nsigning the Contract of Booking, the Contract will be generated, which can be seen on \nclicking the Downward Arrow icon and can also be downloaded in PDF Format. \n\n23",
+    "page": 23,
+    "chunk_id": "page_23_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "13. Add Artist Expertise: Click on the edit icon for the artist and then click on FETCH \nEXPERTISE (for multiple Expertise of Artist, multiple selections can be made in the list \nwith the press and holding the Ctrl key). \n\n24",
+    "page": 24,
+    "chunk_id": "page_24_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "14. Approve Artists: Select the row by double-click, then Approve/Reject artist. \n\n25",
+    "page": 25,
+    "chunk_id": "page_25_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "15. Artist ledger: Select start and end dates to generate the ledger report. \n\n26",
+    "page": 26,
+    "chunk_id": "page_26_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "16. Allow Back Date: Admin can allow a backdate to make the pending booking for the \nartist. \n27",
+    "page": 27,
+    "chunk_id": "page_27_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "17. Change Password: Users can change their password here. \n\n⬆ Go to Top \n\n28",
+    "page": 28,
+    "chunk_id": "page_28_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2) SECRETARY EXECUTIVE ROLE: The secretary has to fetch their mapped \nsections/Units while login on the Portal by clicking on the Fetch Section/Unit button. \nSelect the Section for which the booking/registration of Artist need to perform. \nSECRETARY EXECUTIVE Dashboard has various functions given below: \n1. Artists at Station \n2. Get Artist ID \n3. All Artists \n4. Artists Booking Details \n5. Book Artist \n6. All Bookings \n7. Generate Telecast / Broadcast \nCertificate \n8. Change Password \n\n●​ Steps to login: \n\n29",
+    "page": 29,
+    "chunk_id": "page_29_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "30",
+    "page": 30,
+    "chunk_id": "page_30_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "31",
+    "page": 31,
+    "chunk_id": "page_31_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Secretary Executive Dashboard functions: \n1. Artists at Station: To register an Artist, click on ADD ARTIST, fill in the details of the \nArtist and Submit. Artist Expertise also needs to be mapped while registering the Artist. \nBy clicking on FETCH EXPERTISE (for multiple Expertise of Artist, multiple selections \ncan be made in the list by the press and hold ctrl key). \n32",
+    "page": 32,
+    "chunk_id": "page_32_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. \n\n33",
+    "page": 33,
+    "chunk_id": "page_33_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. All Artists: Artist page will show the list of artists registered country-wide. Details of \nthe artist can be seen by clicking on the artist row. \n\n34",
+    "page": 34,
+    "chunk_id": "page_34_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "4. Artist’s Booking Details: The Artist's booking details can be checked here by \nentering the artist's ABS id and the month. \n\n35",
+    "page": 35,
+    "chunk_id": "page_35_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "5. Book Artist: \nManage Booking: \na) Click on Book Artist. \nb) Select the Main Category (Number of bookings for Resource Person-1 per \nmonth and for Assignee-6 per month) \nc) Select the Expertise. \nd) Select Sub Category. \ne) Select the Grade Type. \nf) List of Available Artists according to the above selection will come to the screen \ng) Select the Artist as per the requirement. \nh) Fill in the payment details(grade fee according to selection will come \nautomatically), other allowances can be fill in the form. \ni) Details related to the Booking need to be entered in next tab. \nj) Submit the booking. \n\n36",
+    "page": 36,
+    "chunk_id": "page_36_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "37",
+    "page": 37,
+    "chunk_id": "page_37_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "38",
+    "page": 38,
+    "chunk_id": "page_38_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "39",
+    "page": 39,
+    "chunk_id": "page_39_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "40",
+    "page": 40,
+    "chunk_id": "page_40_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6. All Bookings: All the bookings created by the user can be seen in this tab. The \nstatus of Booking will also be seen here. Details of the booking can be seen by clicking \non the respective row. \n\n41",
+    "page": 41,
+    "chunk_id": "page_41_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7. Generate Telecast / Broadcast Certificate: \n●​ Pending Voucher List: Displays all pending vouchers. After selecting the row \nand clicking the button “Generate Voucher”, the voucher can be generated. \n\n42",
+    "page": 42,
+    "chunk_id": "page_42_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ List of Vouchers Generated: All vouchers are listed. \n\n43",
+    "page": 43,
+    "chunk_id": "page_43_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "8. Change Password: Users can change their password here.\n\n⬆ Go to Top \n\n44",
+    "page": 44,
+    "chunk_id": "page_44_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3) PROGRAM EXECUTIVE ROLE: Program Executive has to fetch their mapped \nsections/Units while login on the Portal by clicking on the Fetch Section/Unit button. \nSelect the Section for which duties need to be performed. \n1. Artists at Station \n2. Get Artist ID \n3. All Artists \n4. Booking Details \n5. Book Artist \n6. All Bookings \n7. Pending Bookings \n8. Artist Added Recently \n9. Edit Artist Details \n10. Generate Telecast / Broadcast \nCertificate \n11. Booking History \n12. Change Password \n\n●​ Steps to login: \n\n45",
+    "page": 45,
+    "chunk_id": "page_45_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "46",
+    "page": 46,
+    "chunk_id": "page_46_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Program Executive Dashboard functions: \n1. Artists at Station: All the artists registered in the station are listed. \n\n47",
+    "page": 47,
+    "chunk_id": "page_47_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. \n\n48",
+    "page": 48,
+    "chunk_id": "page_48_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. All Artists: Artist page will show the list of artists registered country-wide. Details of \nthe artist can be seen by clicking on the artist row. \n\n4. Booking Details: The Artist booking details can be checked here by entering the \nartist's ABS id and the month. \n\n49",
+    "page": 49,
+    "chunk_id": "page_49_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "50",
+    "page": 50,
+    "chunk_id": "page_50_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "5. Book Artist: Similarly to the Secretary, an Artist can also be booked by the Program \nExecutive. Please refer to the above in the Secretary Role for the process of booking. \n\n51",
+    "page": 51,
+    "chunk_id": "page_51_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "52",
+    "page": 52,
+    "chunk_id": "page_52_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "53",
+    "page": 53,
+    "chunk_id": "page_53_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "54",
+    "page": 54,
+    "chunk_id": "page_54_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6. All Bookings: All Booking lists can be seen here, along with their status. After \nsigning the Contract of Booking, the Contract will be generated, which can be seen on \nclicking the Downward Arrow icon and can also be downloaded in PDF Format. \n\n55",
+    "page": 55,
+    "chunk_id": "page_55_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7. Pending Bookings: All the fresh bookings made by the Secretary can be seen in the \nPending Bookings Tab. Details can be seen by clicking on the respective row. Here, \nBooking can be Approve/Reject. \n\n56",
+    "page": 56,
+    "chunk_id": "page_56_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "8. Artist Added Recently: All the newly registered or not activated artists will be seen \nin the Artist Added Recently Tab. Details of the artist can be seen on clicking the \nrespective row. APPROVE the Artist after verifying its details. \n\n57",
+    "page": 57,
+    "chunk_id": "page_57_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "9. Edit Artist Details: All the Artists registered by the respective Station can be seen in \nthe Edit Artist Details Tab. Here, Artist Details can be edited. \n\n58",
+    "page": 58,
+    "chunk_id": "page_58_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "59",
+    "page": 59,
+    "chunk_id": "page_59_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "10. Generate Telecast / Broadcast Certificate: \n●​ Pending Voucher List: Displays all pending vouchers. After selecting the row \nand clicking the button “Generate Voucher”, the voucher can be generated. \n\n60",
+    "page": 60,
+    "chunk_id": "page_60_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ List of Vouchers Generated: All vouchers are listed. \n\n61",
+    "page": 61,
+    "chunk_id": "page_61_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "11. Booking History: The Artist's booking details can be checked here by entering the \nartist's ABS id.\n62",
+    "page": 62,
+    "chunk_id": "page_62_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "12. Change Password: Users can change their password here. \n⬆ Go to Top \n\n4) SIGNATURE AUTHORITY ROLE: Signature Authority has to fetch their mapped \nsections/Units while login on the Portal by clicking on the Fetch Section/Unit button. \nSelect the Section for which duties need to be performed. \nThe Signature Authority Dashboard has various functions given below: \n1. All Bookings \n2. Pending Bookings \n3. Signature \n4. Get Artist ID \n5. Booking Details \n6. Booking History \n7. Change Password \n\n63",
+    "page": 63,
+    "chunk_id": "page_63_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ Steps to login: \n\n64",
+    "page": 64,
+    "chunk_id": "page_64_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "65",
+    "page": 65,
+    "chunk_id": "page_65_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Signature Authority Dashboard functions: \n1. All Bookings: All Booking lists can be seen here, along with their status. After \nsigning the Contract of Booking, the Contract will be generated, which can be seen on \nclicking the Downward Arrow icon and can also be downloaded in PDF Format. \n\n66",
+    "page": 66,
+    "chunk_id": "page_66_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "67",
+    "page": 67,
+    "chunk_id": "page_67_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2. Pending Bookings: All the bookings verified by Program by Program Executive will \nbe seen in the Pending Booking Tab. Details can be seen on clicking respective row. To \nsign the new generated Booking, Click on SIGN or Reject. \n\n68",
+    "page": 68,
+    "chunk_id": "page_68_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. Signature: To sign the Booking Contract, the Signature Authority needs to upload \ntheir signature in the mentioned size and pixels. To change the signature, the same tab \ncan be used. \n\n69",
+    "page": 69,
+    "chunk_id": "page_69_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "4. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. \n\n5. Booking Details: The Artist's booking details can be checked here by entering the \nartist's ABS id and the month. \n\n70",
+    "page": 70,
+    "chunk_id": "page_70_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "71",
+    "page": 71,
+    "chunk_id": "page_71_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6. Booking History: The Artist's booking details can be checked here by entering the \nartist's ABS id.\n\n72",
+    "page": 72,
+    "chunk_id": "page_72_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7. Change Password: Users can change their password here. \n⬆ Go to Top \n\n5) ACCOUNT OFFICER ROLE: Account Officer handles financial processing, voucher \nverification, and payment management for artist bookings. \nAccount Officer Dashboard has various functions given below: \n1. View Telecast / Broadcast Certificate \n2. Payment Sheet \n3. Artists Ledger \n4. All Bookings \n5. Booking Details \n6. Booking History \n7. Change Password \n\n73",
+    "page": 73,
+    "chunk_id": "page_73_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ Steps to Login: \n\n74",
+    "page": 74,
+    "chunk_id": "page_74_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "75",
+    "page": 75,
+    "chunk_id": "page_75_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Account Officer Dashboard functions: \n\n1. View Telecast / Broadcast Certificate: \n●​ Pending Vouchers Payment: Displays all pending voucher payments. After \nselecting the row and clicking the button “Initiate Payment”, the payment can be \ninitiated. \n\n76",
+    "page": 76,
+    "chunk_id": "page_76_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ List of Payments Initiated: All vouchers with status “Payment Initiated” are \nlisted. \n\n77",
+    "page": 77,
+    "chunk_id": "page_77_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "2. Payment Sheet: Filter/Search voucher by \"Broadcast Date\". The payment sheet can \nbe generated after selecting the start and end Broadcast Dates. \n3. Artists Ledger: Select start and end dates to generate the ledger report.\n\n78",
+    "page": 78,
+    "chunk_id": "page_78_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "4. All Bookings: All Booking lists can be seen here, along with their status. After \nsigning the Contract of Booking, the Contract will be generated, which can be seen on \nclicking the Downward Arrow icon and can also be downloaded in PDF Format.\n\n5. Booking Details: The Artist's booking details can be checked here by entering the \nartist's ABS id and the month.\n\n79",
+    "page": 79,
+    "chunk_id": "page_79_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6. Booking History: The Artist's booking details can be checked here by entering the \nartist's ABS id.\n\n80",
+    "page": 80,
+    "chunk_id": "page_80_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "7. Change Password: Users can change their password here. \n\n⬆ Go to Top \n\n81",
+    "page": 81,
+    "chunk_id": "page_81_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "6) ARTIST ROLE: A registered performer who participates in programmes and provides \ndetails for booking and payment. \nArtist Dashboard has various functions given below: \n1. New Contract \n2. All Contract \n3. User Details \n4. Signature \n5. Change Password \n\n●​ Steps to Login: \n\n82",
+    "page": 82,
+    "chunk_id": "page_82_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "83",
+    "page": 83,
+    "chunk_id": "page_83_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "●​ The Artist Dashboard functions: \n\n1. New Contract: Artist can view/accept/reject new contract. \n\n2. All Contracts: The artist can view/accept/reject all contracts and by selecting the \nrow, can check contract details. \n\n84",
+    "page": 84,
+    "chunk_id": "page_84_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. User Details: Artist details and expertise can be checked. \n\n4. Signature: The artist needs to upload their signature in the mentioned size and \npixels. To change the signature, the same tab can be used. \n\n85",
+    "page": 85,
+    "chunk_id": "page_85_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "5. Change Password: Artist can change their password here. \n\n⬆ Go to Top \n\n86",
+    "page": 86,
+    "chunk_id": "page_86_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "3. Artist Booking Workflow:- \n⬆ Go to Top \n87",
+    "page": 87,
+    "chunk_id": "page_87_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "4. Circular Backdate Booking:- \n\n88",
+    "page": 88,
+    "chunk_id": "page_88_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "89",
+    "page": 89,
+    "chunk_id": "page_89_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "90",
+    "page": 90,
+    "chunk_id": "page_90_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "91",
+    "page": 91,
+    "chunk_id": "page_91_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "⬆ Go to Top \n\n92",
+    "page": 92,
+    "chunk_id": "page_92_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "5. Frequently Asked Questions (FAQs) for Station Admin/ \nSecretary Executive/ Program Executive/ Signing Authority/ \nAccount Officer:- \nQue 1. How can I log in to the ABS Portal? \nAns: \n●​ Use your Login Credentials to log in at https://abs.prasarbharati.org/​\n\n●​ Authentication uses OTP sent to your registered mobile and email (2FA enabled) \nQue 2. How to update or allow the backdate? \nAns: Follow the steps below to proceed successfully: \n1. Log in with the Station Admin Role. \n2. Click on the \"Allow Back Date\" module. \n3. In the Allow till field, select tomorrow's date and time \n4. Enter the description/remarks and submit. Log out of the Admin role. \n5. Now, log in with the Pex/SecEx role, go to the Book Artist Module, and select the \nback date (Back date will be visible here after you have followed the above steps \nproperly). \n\n93",
+    "page": 93,
+    "chunk_id": "page_93_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Que 3. I am not getting the login OTP at my email ID and mobile number. \nAns: Email request to support@prasarbharati.gov.in with ‘ABS’ in the subject line from \nyour registered email ID. \n\nQue 4. OTP not received. How to update the Registered Mobile number? \nAns: Contact your station admin for the profile update. \n\nQue 5. How to add expertise to the Artists? \nAns: Contact your station admin for the profile update. \n94",
+    "page": 94,
+    "chunk_id": "page_94_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Que 6. Email ID Pex login not showing the 'Generate Telecast / Broadcast \nCertificate' option for assignees and artists. How to assign duty? \nAns: \nKindly follow the steps below: \n1. Login with your station admin account. \n2. Select Module \"Manage Duty Officer/ Extra Staff\". \n3. Click on \"Assign Role to Existing Officer\". \n4. \"Assign Duty\" to each newly created PEX(s). \n\nThis will enable the \"Generate Telecast / Broadcast Certificate\" module for the Pex's \nemail id login.\n\n6. Frequently Asked Questions (FAQs) for Artist:- \nQue 1. How can I log in to the ABS Portal? \nAns: Kindly follow the steps below to Login at https://abs.prasarbharati.org/ : \n1. Enter your registered Email id. \n2. Click on \"Fetch Section/Unit\". It will show default Section/Unit. \n3. Enter Password. \n4. Enter Captcha. \n5. Click on \"Login\" to proceed. \n\nQue 2. I am unable to log in to the ABS portal as I forgot my password. How can I \nreset my password? \nAns: Kindly use the \"Forgot Password\" option to reset your password. \n\nQue 3. How to accept/reject a new contract? \nAns: Kindly follow the steps below to Accept or Reject Contract: \n1. Login with your credentials. \n2. Select Module \"New Contract\". \n3. Double click",
+    "page": 95,
+    "chunk_id": "page_95_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "ord. \n\nQue 3. How to accept/reject a new contract? \nAns: Kindly follow the steps below to Accept or Reject Contract: \n1. Login with your credentials. \n2. Select Module \"New Contract\". \n3. Double click a row to select contract. \n4. Click on \"Accept/Reject\" to proceed. \n\n7. Contact Us:- For technical support, kindly email us at the address below with \npre'ABS' in the subject line: support@prasarbharati.gov.in \n⬆ Go to Top \n95",
+    "page": 95,
+    "chunk_id": "page_95_chunk_2",
+    "source": "ABS_User_Manual.pdf"
+  },
+  {
+    "text": "Thank You \n\n96",
+    "page": 96,
+    "chunk_id": "page_96_chunk_1",
+    "source": "ABS_User_Manual.pdf"
+  }
+]
