@@ -11,7 +11,35 @@ ABS Support AI is deployed as a React/Vite frontend with a FastAPI backend.
 
 **Backend API:** See the live API link provided with this project.
 
----
+## 📸 Project Screenshots
+
+### 1. ABS Support AI — Home Interface
+
+![ABS Support AI Home Interface](screenshots/1.png)
+
+### 2. User Query Interface
+
+![User Query Interface](screenshots/2.png)
+
+### 3. AI-Generated RAG Response
+
+![AI Generated RAG Response](screenshots/3.png)
+
+### 4. Retrieved Source References
+
+![RAG Source References](screenshots/4.png)
+
+### 5. Common Questions
+
+![Common Questions](screenshots/5.png)
+
+### 6. How It Works
+
+![How ABS Support AI Works](screenshots/6.png)
+
+### 7. Responsive / Mobile Interface
+
+![Responsive Mobile Interface](screenshots/7.png)
 
 ## 📌 Overview
 
