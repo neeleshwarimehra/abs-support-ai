@@ -1,0 +1,1104 @@
+
+========================================
+Chunk ID: page_1_chunk_1
+Page: 1
+========================================
+Artist/Talent Booking Software 
+(ABS/TBS) 
+(आर्टिस्ट / टैलेंट बुकिंग सॉफ़्टवेयर) 
+
+User Manual 
+User and Artist Login Link: 
+https://abs.prasarbharati.org/ 
+
+1
+
+========================================
+Chunk ID: page_2_chunk_1
+Page: 2
+========================================
+Table of Contents 
+S.No. 
+Contents 
+Page No. 
+1. 
+Introduction and Overview 
+
+3 
+2. 
+Role Overview 
+
+3-84 
+
+1)​ ADMIN ROLE 
+
+5-26 
+
+2)​ SECRETARY EXECUTIVE ROLE 
+
+29-44 
+
+3)​ PROGRAM EXECUTIVE ROLE 
+
+45-63 
+
+4)​ SIGNATURE AUTHORITY ROLE 
+
+63-73 
+
+5)​ ACCOUNT OFFICER ROLE 
+
+73-81 
+
+6)​ ARTIST ROLE 
+
+82-86 
+3. 
+Artist Booking Workflow 
+
+87 
+4. 
+Circular Backdate Booking 
+
+88-92 
+5. 
+Frequently Asked Questions (FAQs) for Station Admin/ Secretary 
+Executive / Program Executive/ Signing Authority/ Account Officer 
+
+93-95 
+6. 
+Frequently Asked Questions (FAQs) for Artist:- 
+
+95 
+7. 
+Contact Us 
+
+95 
+2
+
+========================================
+Chunk ID: page_3_chunk_1
+Page: 3
+========================================
+1. Introduction and Overview:- 
+➔​ Name: Artist/Talent Booking Software (ABS/TBS) 
+
+➔​ Website URL: https://abs.prasarbharati.org/ 
+
+➔​ ABS Support: For support, kindly email us at the address below with 'ABS' in 
+the subject line: support@prasarbharati.gov.in 
+➔​ ABS 
+Portal 
+Overview: 
+Artist/Talent 
+Booking 
+Software 
+is 
+an 
+online 
+browser-based application, created for the registration and Booking of 
+Assignee/RP/Artist. 
+
+3
+
+========================================
+Chunk ID: page_4_chunk_1
+Page: 4
+========================================
+2. Role Overview:- 
+➔​ Role Overview 
+This Portal has multiple users of different roles for each station. Each role has 
+specific jobs to perform. These roles are: 
+1. Station Admin. 
+2. Secretary Executive. 
+3. Program Executive 
+4. Signing Authority/H.O.P. 
+5. Account officer. 
+6. Artist. 
+Each Station must have Station Admin credentials to start Artist/Talent Booking 
+Software (ABS/TBS). For Station Admin Credentials, the following details are to 
+be sent to the email address “support@prasarbharati.gov.in” with ‘ABS’ in the 
+subject line: 
+1. Station Name 
+2. Station Address 
+3. Head of Program Name 
+4. Head of Program Email ID 
+5. Head of Program Mobile No. 
+
+4
+
+========================================
+Chunk ID: page_5_chunk_1
+Page: 5
+========================================
+Once Station receives its Admin credentials. The station can start using the Artist/Talent 
+Booking Software Portal. 
+1) ADMIN ROLE: Station Admin will have the default as Section/Unit. 
+Admin Dashboard has various functions given below: 
+1. Artist at Station 
+2. All Channels 
+3. All Sections/Units 
+4. Manage Secretary/TREX 
+5. Manage Executive 
+6. Manage Signature Authority 
+7. Manage Duty Officer/Extra Staff 
+8. Manage Account Officer 
+9. Manage H.O.P. 
+10. Manage Staff Account 
+11. All Artists 
+12. All Bookings 
+13. Add Artist Expertise 
+14. Approve Artists 
+15. Artist ledger 
+16. Allow Back Date 
+17. Change Password 
+
+●​ Steps to Login: 
+
+5
+
+========================================
+Chunk ID: page_6_chunk_1
+Page: 6
+========================================
+6
+
+========================================
+Chunk ID: page_7_chunk_1
+Page: 7
+========================================
+7
+
+========================================
+Chunk ID: page_8_chunk_1
+Page: 8
+========================================
+●​ The Station Admin Dashboard functions: 
+1. Artist at Station: All the artists registered in the station are listed. 
+
+2. All Channels: All the running channels on their Station need to be created here. 
+Details of registered channels can be Create/Edit/Delete/Activate/Deactivate in this tab. 
+To create a channel, click on ADD Channel. 
+
+8
+
+========================================
+Chunk ID: page_9_chunk_1
+Page: 9
+========================================
+3. All Sections/Units: All the working Sections/Units at their Station need to be created 
+here. Details of registered Sections/Units can be Create/Edit/Delete/Deactivate in this 
+tab. 
+To create a Section/Unit click on ADD Section/Unit. While Creating Sections, their 
+respective channels also need to be selected (Press Ctrl for multiple channels, showing 
+in the list of Available Channels). In case a new registered Channel is not available in 
+the list, please refresh the Page. 
+
+9
+
+========================================
+Chunk ID: page_10_chunk_1
+Page: 10
+========================================
+4. Manage Secretary/TREX: All the Program Executives in their Station need to be 
+registered here. Details of the registered Program Executive can be 
+Create/Edit/Delete/Activate/Deactivate in this tab. A unique Email ID is required to 
+register a new User. 
+To create a Program Executive, click on ADD EXECUTIVE. While creating Program 
+Executive, their respective Section/Unit also needs to be selected (Press Ctrl for 
+multiple Section/Unit, showing in the list of Available Section/Unit). After successful 
+submission of the registration form, the user's Username and Password will be 
+automatically generated, which can be passed to the user. 
+
+10
+
+========================================
+Chunk ID: page_11_chunk_1
+Page: 11
+========================================
+5. Manage Program Executives: All the Program Executives in their Station need to 
+register here. Details of the registered Program Executive can be 
+Create/Edit/Delete/Activate/Deactivate in this tab. A unique email ID is required to 
+register a new User. 
+To create a Program Executive, click on ADD EXECUTIVE. While creating an 
+Executive, their respective Section/Unit also needs to be selected (Press Ctrl for 
+multiple Section/Unit, showing in the list of Available Section/Unit). After successful 
+submission of the registration form, the user's Username and Password will be 
+automatically generated, which can be passed to the user. 
+
+11
+
+========================================
+Chunk ID: page_12_chunk_1
+Page: 12
+========================================
+6. Manage Signature Authority: All the Signature Authorities in their Station need to 
+be registered here. Details of the registered Authority can be Create/Edit/Delete 
+Activate/Deactivate in this tab. A unique email ID is required to register a new User. 
+To create a Signature Authority, click on ADD SIGNATURE AUTHORITY. While 
+creating Signature Authority, their respective Section/Unit also needs to be selected 
+(Press Ctrl for multiple Section/Unit, showing in the list of Available Section/unit). In 
+case a new registered Section/Unit is not available in the list, Please Refresh the Page. 
+After successful submission of the registration form, the user's Username and Password 
+will be automatically generated, which can be passed to the user. 
+
+12
+
+========================================
+Chunk ID: page_13_chunk_1
+Page: 13
+========================================
+7. Manage Duty Officer/Extra Staff: All the Duty Officers/Extra Staff in their Station 
+need to be registered here. Details of the registered Officer can be Create/Edit/Delete 
+Activate/Deactivate in this tab. A unique email ID is required to register a new User. 
+
+13
+
+========================================
+Chunk ID: page_14_chunk_1
+Page: 14
+========================================
+14
+
+========================================
+Chunk ID: page_15_chunk_1
+Page: 15
+========================================
+Assign the Voucher generation role to Extra staff/TREX: 
+●​ Login with Admin & click on Manage Duty Officer/Extra Staff and add the staff 
+name with the mail id. 
+
+15
+
+========================================
+Chunk ID: page_16_chunk_1
+Page: 16
+========================================
+●​ We can also assign voucher generation roles to existing staff, like PEX etc. 
+
+16
+
+========================================
+Chunk ID: page_17_chunk_1
+Page: 17
+========================================
+8. Manage Account Officer: All the Account Officers in their Station need to be 
+registered here. Details of the registered Officers can be Create/Edit/Delete 
+Activate/Deactivate in this tab. A unique email ID is required to register a new User. 
+
+17
+
+========================================
+Chunk ID: page_18_chunk_1
+Page: 18
+========================================
+9. Manage H.O.P.: All the Heads of the Program in their stations need to be registered 
+here. Details of the registered Officers can be Create/Edit/Delete Activate/Deactivate in 
+this tab. A unique email ID is required to register a new User. 
+
+18
+
+========================================
+Chunk ID: page_19_chunk_1
+Page: 19
+========================================
+19
+
+========================================
+Chunk ID: page_20_chunk_1
+Page: 20
+========================================
+10. Manage Staff Account: Through the Manage Staff Account tab, the station can 
+reset the password of its station staff, deactivate the user and also delete their 
+registration. 
+
+●​ The forgot password option has been given in the user's login. Kindly ensure that 
+the registered mobile number is correct. The otp is also sent to the registered 
+mail id. Kindly check the Inbox/Notification/Spam folders. 
+
+20
+
+========================================
+Chunk ID: page_21_chunk_1
+Page: 21
+========================================
+●​ In case of transfer or retirement, the user can be deactivated, and the same 
+email id can be used at new stations. 
+
+21
+
+========================================
+Chunk ID: page_22_chunk_1
+Page: 22
+========================================
+11. All Artists: Artist page will show the list of artists registered country-wide. Details of 
+the artist can be seen by clicking on the artist row. 
+
+22
+
+========================================
+Chunk ID: page_23_chunk_1
+Page: 23
+========================================
+12. All Bookings: All Booking lists can be seen here, along with their status. After 
+signing the Contract of Booking, the Contract will be generated, which can be seen on 
+clicking the Downward Arrow icon and can also be downloaded in PDF Format. 
+
+23
+
+========================================
+Chunk ID: page_24_chunk_1
+Page: 24
+========================================
+13. Add Artist Expertise: Click on the edit icon for the artist and then click on FETCH 
+EXPERTISE (for multiple Expertise of Artist, multiple selections can be made in the list 
+with the press and holding the Ctrl key). 
+
+24
+
+========================================
+Chunk ID: page_25_chunk_1
+Page: 25
+========================================
+14. Approve Artists: Select the row by double-click, then Approve/Reject artist. 
+
+25
+
+========================================
+Chunk ID: page_26_chunk_1
+Page: 26
+========================================
+15. Artist ledger: Select start and end dates to generate the ledger report. 
+
+26
+
+========================================
+Chunk ID: page_27_chunk_1
+Page: 27
+========================================
+16. Allow Back Date: Admin can allow a backdate to make the pending booking for the 
+artist. 
+27
+
+========================================
+Chunk ID: page_28_chunk_1
+Page: 28
+========================================
+17. Change Password: Users can change their password here. 
+
+⬆ Go to Top 
+
+28
+
+========================================
+Chunk ID: page_29_chunk_1
+Page: 29
+========================================
+2) SECRETARY EXECUTIVE ROLE: The secretary has to fetch their mapped 
+sections/Units while login on the Portal by clicking on the Fetch Section/Unit button. 
+Select the Section for which the booking/registration of Artist need to perform. 
+SECRETARY EXECUTIVE Dashboard has various functions given below: 
+1. Artists at Station 
+2. Get Artist ID 
+3. All Artists 
+4. Artists Booking Details 
+5. Book Artist 
+6. All Bookings 
+7. Generate Telecast / Broadcast 
+Certificate 
+8. Change Password 
+
+●​ Steps to login: 
+
+29
+
+========================================
+Chunk ID: page_30_chunk_1
+Page: 30
+========================================
+30
+
+========================================
+Chunk ID: page_31_chunk_1
+Page: 31
+========================================
+31
+
+========================================
+Chunk ID: page_32_chunk_1
+Page: 32
+========================================
+●​ The Secretary Executive Dashboard functions: 
+1. Artists at Station: To register an Artist, click on ADD ARTIST, fill in the details of the 
+Artist and Submit. Artist Expertise also needs to be mapped while registering the Artist. 
+By clicking on FETCH EXPERTISE (for multiple Expertise of Artist, multiple selections 
+can be made in the list by the press and hold ctrl key). 
+32
+
+========================================
+Chunk ID: page_33_chunk_1
+Page: 33
+========================================
+2. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. 
+
+33
+
+========================================
+Chunk ID: page_34_chunk_1
+Page: 34
+========================================
+3. All Artists: Artist page will show the list of artists registered country-wide. Details of 
+the artist can be seen by clicking on the artist row. 
+
+34
+
+========================================
+Chunk ID: page_35_chunk_1
+Page: 35
+========================================
+4. Artist’s Booking Details: The Artist's booking details can be checked here by 
+entering the artist's ABS id and the month. 
+
+35
+
+========================================
+Chunk ID: page_36_chunk_1
+Page: 36
+========================================
+5. Book Artist: 
+Manage Booking: 
+a) Click on Book Artist. 
+b) Select the Main Category (Number of bookings for Resource Person-1 per 
+month and for Assignee-6 per month) 
+c) Select the Expertise. 
+d) Select Sub Category. 
+e) Select the Grade Type. 
+f) List of Available Artists according to the above selection will come to the screen 
+g) Select the Artist as per the requirement. 
+h) Fill in the payment details(grade fee according to selection will come 
+automatically), other allowances can be fill in the form. 
+i) Details related to the Booking need to be entered in next tab. 
+j) Submit the booking. 
+
+36
+
+========================================
+Chunk ID: page_37_chunk_1
+Page: 37
+========================================
+37
+
+========================================
+Chunk ID: page_38_chunk_1
+Page: 38
+========================================
+38
+
+========================================
+Chunk ID: page_39_chunk_1
+Page: 39
+========================================
+39
+
+========================================
+Chunk ID: page_40_chunk_1
+Page: 40
+========================================
+40
+
+========================================
+Chunk ID: page_41_chunk_1
+Page: 41
+========================================
+6. All Bookings: All the bookings created by the user can be seen in this tab. The 
+status of Booking will also be seen here. Details of the booking can be seen by clicking 
+on the respective row. 
+
+41
+
+========================================
+Chunk ID: page_42_chunk_1
+Page: 42
+========================================
+7. Generate Telecast / Broadcast Certificate: 
+●​ Pending Voucher List: Displays all pending vouchers. After selecting the row 
+and clicking the button “Generate Voucher”, the voucher can be generated. 
+
+42
+
+========================================
+Chunk ID: page_43_chunk_1
+Page: 43
+========================================
+●​ List of Vouchers Generated: All vouchers are listed. 
+
+43
+
+========================================
+Chunk ID: page_44_chunk_1
+Page: 44
+========================================
+8. Change Password: Users can change their password here.
+
+⬆ Go to Top 
+
+44
+
+========================================
+Chunk ID: page_45_chunk_1
+Page: 45
+========================================
+3) PROGRAM EXECUTIVE ROLE: Program Executive has to fetch their mapped 
+sections/Units while login on the Portal by clicking on the Fetch Section/Unit button. 
+Select the Section for which duties need to be performed. 
+1. Artists at Station 
+2. Get Artist ID 
+3. All Artists 
+4. Booking Details 
+5. Book Artist 
+6. All Bookings 
+7. Pending Bookings 
+8. Artist Added Recently 
+9. Edit Artist Details 
+10. Generate Telecast / Broadcast 
+Certificate 
+11. Booking History 
+12. Change Password 
+
+●​ Steps to login: 
+
+45
+
+========================================
+Chunk ID: page_46_chunk_1
+Page: 46
+========================================
+46
+
+========================================
+Chunk ID: page_47_chunk_1
+Page: 47
+========================================
+●​ The Program Executive Dashboard functions: 
+1. Artists at Station: All the artists registered in the station are listed. 
+
+47
+
+========================================
+Chunk ID: page_48_chunk_1
+Page: 48
+========================================
+2. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. 
+
+48
+
+========================================
+Chunk ID: page_49_chunk_1
+Page: 49
+========================================
+3. All Artists: Artist page will show the list of artists registered country-wide. Details of 
+the artist can be seen by clicking on the artist row. 
+
+4. Booking Details: The Artist booking details can be checked here by entering the 
+artist's ABS id and the month. 
+
+49
+
+========================================
+Chunk ID: page_50_chunk_1
+Page: 50
+========================================
+50
+
+========================================
+Chunk ID: page_51_chunk_1
+Page: 51
+========================================
+5. Book Artist: Similarly to the Secretary, an Artist can also be booked by the Program 
+Executive. Please refer to the above in the Secretary Role for the process of booking. 
+
+51
+
+========================================
+Chunk ID: page_52_chunk_1
+Page: 52
+========================================
+52
+
+========================================
+Chunk ID: page_53_chunk_1
+Page: 53
+========================================
+53
+
+========================================
+Chunk ID: page_54_chunk_1
+Page: 54
+========================================
+54
+
+========================================
+Chunk ID: page_55_chunk_1
+Page: 55
+========================================
+6. All Bookings: All Booking lists can be seen here, along with their status. After 
+signing the Contract of Booking, the Contract will be generated, which can be seen on 
+clicking the Downward Arrow icon and can also be downloaded in PDF Format. 
+
+55
+
+========================================
+Chunk ID: page_56_chunk_1
+Page: 56
+========================================
+7. Pending Bookings: All the fresh bookings made by the Secretary can be seen in the 
+Pending Bookings Tab. Details can be seen by clicking on the respective row. Here, 
+Booking can be Approve/Reject. 
+
+56
+
+========================================
+Chunk ID: page_57_chunk_1
+Page: 57
+========================================
+8. Artist Added Recently: All the newly registered or not activated artists will be seen 
+in the Artist Added Recently Tab. Details of the artist can be seen on clicking the 
+respective row. APPROVE the Artist after verifying its details. 
+
+57
+
+========================================
+Chunk ID: page_58_chunk_1
+Page: 58
+========================================
+9. Edit Artist Details: All the Artists registered by the respective Station can be seen in 
+the Edit Artist Details Tab. Here, Artist Details can be edited. 
+
+58
+
+========================================
+Chunk ID: page_59_chunk_1
+Page: 59
+========================================
+59
+
+========================================
+Chunk ID: page_60_chunk_1
+Page: 60
+========================================
+10. Generate Telecast / Broadcast Certificate: 
+●​ Pending Voucher List: Displays all pending vouchers. After selecting the row 
+and clicking the button “Generate Voucher”, the voucher can be generated. 
+
+60
+
+========================================
+Chunk ID: page_61_chunk_1
+Page: 61
+========================================
+●​ List of Vouchers Generated: All vouchers are listed. 
+
+61
+
+========================================
+Chunk ID: page_62_chunk_1
+Page: 62
+========================================
+11. Booking History: The Artist's booking details can be checked here by entering the 
+artist's ABS id.
+62
+
+========================================
+Chunk ID: page_63_chunk_1
+Page: 63
+========================================
+12. Change Password: Users can change their password here. 
+⬆ Go to Top 
+
+4) SIGNATURE AUTHORITY ROLE: Signature Authority has to fetch their mapped 
+sections/Units while login on the Portal by clicking on the Fetch Section/Unit button. 
+Select the Section for which duties need to be performed. 
+The Signature Authority Dashboard has various functions given below: 
+1. All Bookings 
+2. Pending Bookings 
+3. Signature 
+4. Get Artist ID 
+5. Booking Details 
+6. Booking History 
+7. Change Password 
+
+63
+
+========================================
+Chunk ID: page_64_chunk_1
+Page: 64
+========================================
+●​ Steps to login: 
+
+64
+
+========================================
+Chunk ID: page_65_chunk_1
+Page: 65
+========================================
+65
+
+========================================
+Chunk ID: page_66_chunk_1
+Page: 66
+========================================
+●​ The Signature Authority Dashboard functions: 
+1. All Bookings: All Booking lists can be seen here, along with their status. After 
+signing the Contract of Booking, the Contract will be generated, which can be seen on 
+clicking the Downward Arrow icon and can also be downloaded in PDF Format. 
+
+66
+
+========================================
+Chunk ID: page_67_chunk_1
+Page: 67
+========================================
+67
+
+========================================
+Chunk ID: page_68_chunk_1
+Page: 68
+========================================
+2. Pending Bookings: All the bookings verified by Program by Program Executive will 
+be seen in the Pending Booking Tab. Details can be seen on clicking respective row. To 
+sign the new generated Booking, Click on SIGN or Reject. 
+
+68
+
+========================================
+Chunk ID: page_69_chunk_1
+Page: 69
+========================================
+3. Signature: To sign the Booking Contract, the Signature Authority needs to upload 
+their signature in the mentioned size and pixels. To change the signature, the same tab 
+can be used. 
+
+69
+
+========================================
+Chunk ID: page_70_chunk_1
+Page: 70
+========================================
+4. Get Artist ID: The Artist ABS ID can be checked here by entering the artist’s PAN. 
+
+5. Booking Details: The Artist's booking details can be checked here by entering the 
+artist's ABS id and the month. 
+
+70
+
+========================================
+Chunk ID: page_71_chunk_1
+Page: 71
+========================================
+71
+
+========================================
+Chunk ID: page_72_chunk_1
+Page: 72
+========================================
+6. Booking History: The Artist's booking details can be checked here by entering the 
+artist's ABS id.
+
+72
+
+========================================
+Chunk ID: page_73_chunk_1
+Page: 73
+========================================
+7. Change Password: Users can change their password here. 
+⬆ Go to Top 
+
+5) ACCOUNT OFFICER ROLE: Account Officer handles financial processing, voucher 
+verification, and payment management for artist bookings. 
+Account Officer Dashboard has various functions given below: 
+1. View Telecast / Broadcast Certificate 
+2. Payment Sheet 
+3. Artists Ledger 
+4. All Bookings 
+5. Booking Details 
+6. Booking History 
+7. Change Password 
+
+73
+
+========================================
+Chunk ID: page_74_chunk_1
+Page: 74
+========================================
+●​ Steps to Login: 
+
+74
+
+========================================
+Chunk ID: page_75_chunk_1
+Page: 75
+========================================
+75
+
+========================================
+Chunk ID: page_76_chunk_1
+Page: 76
+========================================
+●​ The Account Officer Dashboard functions: 
+
+1. View Telecast / Broadcast Certificate: 
+●​ Pending Vouchers Payment: Displays all pending voucher payments. After 
+selecting the row and clicking the button “Initiate Payment”, the payment can be 
+initiated. 
+
+76
+
+========================================
+Chunk ID: page_77_chunk_1
+Page: 77
+========================================
+●​ List of Payments Initiated: All vouchers with status “Payment Initiated” are 
+listed. 
+
+77
+
+========================================
+Chunk ID: page_78_chunk_1
+Page: 78
+========================================
+2. Payment Sheet: Filter/Search voucher by "Broadcast Date". The payment sheet can 
+be generated after selecting the start and end Broadcast Dates. 
+3. Artists Ledger: Select start and end dates to generate the ledger report.
+
+78
+
+========================================
+Chunk ID: page_79_chunk_1
+Page: 79
+========================================
+4. All Bookings: All Booking lists can be seen here, along with their status. After 
+signing the Contract of Booking, the Contract will be generated, which can be seen on 
+clicking the Downward Arrow icon and can also be downloaded in PDF Format.
+
+5. Booking Details: The Artist's booking details can be checked here by entering the 
+artist's ABS id and the month.
+
+79
+
+========================================
+Chunk ID: page_80_chunk_1
+Page: 80
+========================================
+6. Booking History: The Artist's booking details can be checked here by entering the 
+artist's ABS id.
+
+80
+
+========================================
+Chunk ID: page_81_chunk_1
+Page: 81
+========================================
+7. Change Password: Users can change their password here. 
+
+⬆ Go to Top 
+
+81
+
+========================================
+Chunk ID: page_82_chunk_1
+Page: 82
+========================================
+6) ARTIST ROLE: A registered performer who participates in programmes and provides 
+details for booking and payment. 
+Artist Dashboard has various functions given below: 
+1. New Contract 
+2. All Contract 
+3. User Details 
+4. Signature 
+5. Change Password 
+
+●​ Steps to Login: 
+
+82
+
+========================================
+Chunk ID: page_83_chunk_1
+Page: 83
+========================================
+83
+
+========================================
+Chunk ID: page_84_chunk_1
+Page: 84
+========================================
+●​ The Artist Dashboard functions: 
+
+1. New Contract: Artist can view/accept/reject new contract. 
+
+2. All Contracts: The artist can view/accept/reject all contracts and by selecting the 
+row, can check contract details. 
+
+84
+
+========================================
+Chunk ID: page_85_chunk_1
+Page: 85
+========================================
+3. User Details: Artist details and expertise can be checked. 
+
+4. Signature: The artist needs to upload their signature in the mentioned size and 
+pixels. To change the signature, the same tab can be used. 
+
+85
+
+========================================
+Chunk ID: page_86_chunk_1
+Page: 86
+========================================
+5. Change Password: Artist can change their password here. 
+
+⬆ Go to Top 
+
+86
+
+========================================
+Chunk ID: page_87_chunk_1
+Page: 87
+========================================
+3. Artist Booking Workflow:- 
+⬆ Go to Top 
+87
+
+========================================
+Chunk ID: page_88_chunk_1
+Page: 88
+========================================
+4. Circular Backdate Booking:- 
+
+88
+
+========================================
+Chunk ID: page_89_chunk_1
+Page: 89
+========================================
+89
+
+========================================
+Chunk ID: page_90_chunk_1
+Page: 90
+========================================
+90
+
+========================================
+Chunk ID: page_91_chunk_1
+Page: 91
+========================================
+91
+
+========================================
+Chunk ID: page_92_chunk_1
+Page: 92
+========================================
+⬆ Go to Top 
+
+92
+
+========================================
+Chunk ID: page_93_chunk_1
+Page: 93
+========================================
+5. Frequently Asked Questions (FAQs) for Station Admin/ 
+Secretary Executive/ Program Executive/ Signing Authority/ 
+Account Officer:- 
+Que 1. How can I log in to the ABS Portal? 
+Ans: 
+●​ Use your Login Credentials to log in at https://abs.prasarbharati.org/​
+
+●​ Authentication uses OTP sent to your registered mobile and email (2FA enabled) 
+Que 2. How to update or allow the backdate? 
+Ans: Follow the steps below to proceed successfully: 
+1. Log in with the Station Admin Role. 
+2. Click on the "Allow Back Date" module. 
+3. In the Allow till field, select tomorrow's date and time 
+4. Enter the description/remarks and submit. Log out of the Admin role. 
+5. Now, log in with the Pex/SecEx role, go to the Book Artist Module, and select the 
+back date (Back date will be visible here after you have followed the above steps 
+properly). 
+
+93
+
+========================================
+Chunk ID: page_94_chunk_1
+Page: 94
+========================================
+Que 3. I am not getting the login OTP at my email ID and mobile number. 
+Ans: Email request to support@prasarbharati.gov.in with ‘ABS’ in the subject line from 
+your registered email ID. 
+
+Que 4. OTP not received. How to update the Registered Mobile number? 
+Ans: Contact your station admin for the profile update. 
+
+Que 5. How to add expertise to the Artists? 
+Ans: Contact your station admin for the profile update. 
+94
+
+========================================
+Chunk ID: page_95_chunk_1
+Page: 95
+========================================
+Que 6. Email ID Pex login not showing the 'Generate Telecast / Broadcast 
+Certificate' option for assignees and artists. How to assign duty? 
+Ans: 
+Kindly follow the steps below: 
+1. Login with your station admin account. 
+2. Select Module "Manage Duty Officer/ Extra Staff". 
+3. Click on "Assign Role to Existing Officer". 
+4. "Assign Duty" to each newly created PEX(s). 
+
+This will enable the "Generate Telecast / Broadcast Certificate" module for the Pex's 
+email id login.
+
+6. Frequently Asked Questions (FAQs) for Artist:- 
+Que 1. How can I log in to the ABS Portal? 
+Ans: Kindly follow the steps below to Login at https://abs.prasarbharati.org/ : 
+1. Enter your registered Email id. 
+2. Click on "Fetch Section/Unit". It will show default Section/Unit. 
+3. Enter Password. 
+4. Enter Captcha. 
+5. Click on "Login" to proceed. 
+
+Que 2. I am unable to log in to the ABS portal as I forgot my password. How can I 
+reset my password? 
+Ans: Kindly use the "Forgot Password" option to reset your password. 
+
+Que 3. How to accept/reject a new contract? 
+Ans: Kindly follow the steps below to Accept or Reject Contract: 
+1. Login with your credentials. 
+2. Select Module "New Contract". 
+3. Double click
+
+========================================
+Chunk ID: page_95_chunk_2
+Page: 95
+========================================
+ord. 
+
+Que 3. How to accept/reject a new contract? 
+Ans: Kindly follow the steps below to Accept or Reject Contract: 
+1. Login with your credentials. 
+2. Select Module "New Contract". 
+3. Double click a row to select contract. 
+4. Click on "Accept/Reject" to proceed. 
+
+7. Contact Us:- For technical support, kindly email us at the address below with 
+pre'ABS' in the subject line: support@prasarbharati.gov.in 
+⬆ Go to Top 
+95
+
+========================================
+Chunk ID: page_96_chunk_1
+Page: 96
+========================================
+Thank You 
+
+96
