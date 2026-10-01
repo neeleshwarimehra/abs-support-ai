@@ -187,6 +187,28 @@ function App() {
             </div>{" "}
             <span className="manual-badge"> ABS User Manual </span>{" "}
           </div>{" "}
+          
+          {/* Common questions */}{" "}
+          <div className="common-section">
+            {" "}
+            <span className="section-kicker"> COMMON QUESTIONS </span>{" "}
+            <div className="question-list">
+              {" "}
+              {commonQuestions.map((item) => (
+                <button
+                  key={item}
+                  type="button"
+                  className="question-chip"
+                  onClick={() => handleCommonQuestion(item)}
+                  disabled={loading}
+                >
+                  {" "}
+                  <span className="chip-arrow">→</span> {item}{" "}
+                </button>
+              ))}{" "}
+            </div>{" "}
+          
+          </div>{" "}
           <div className="ask-card">
             {" "}
             <form onSubmit={askQuestion}>
@@ -229,27 +251,6 @@ function App() {
                 </div>{" "}
               </div>{" "}
             </form>{" "}
-          </div>{" "}
-          {/* Common questions */}{" "}
-          <div className="common-section">
-            {" "}
-            <span className="section-kicker"> COMMON QUESTIONS </span>{" "}
-            <div className="question-list">
-              {" "}
-              {commonQuestions.map((item) => (
-                <button
-                  key={item}
-                  type="button"
-                  className="question-chip"
-                  onClick={() => handleCommonQuestion(item)}
-                  disabled={loading}
-                >
-                  {" "}
-                  <span className="chip-arrow">→</span> {item}{" "}
-                </button>
-              ))}{" "}
-            </div>{" "}
-          
           </div>{" "}
         </section>{" "}
         {/* Error */}{" "}
