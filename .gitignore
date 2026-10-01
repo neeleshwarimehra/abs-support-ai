@@ -1,7 +1,9 @@
 .env
+.env.local
+frontend/.env.local
 .venv/
 __pycache__/
-chroma_db/
 *.pyc
 node_modules/
-dist/
+frontend/dist/
+chroma_db/
